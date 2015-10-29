@@ -18,4 +18,3 @@ print(net.sizes)
 print(net.num_layers)
 print_(net.biases)
 print_(net.weights)
-
